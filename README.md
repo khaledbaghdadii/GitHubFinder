@@ -1,10 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-##Project Title
+## Project Title
 GitHub Finder
 
-##Description:
+## Description:
 The project is to search for github accounts and view basic info about them.
 It is done as part of a React course I took
 
